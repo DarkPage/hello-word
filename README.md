@@ -1,2 +1,2 @@
 # hello-word
-My start when i use GitHub the first time.Very good!
+The first time i use GitHub.Pretty good!
